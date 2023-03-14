@@ -19,5 +19,5 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-References:
+<!-- References: Used this as a guide -->
 https://github.com/Achigas/CodeQuiz-Challenge4
